@@ -34,6 +34,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Kobo360** (YC S18) - Truck drivers find loads and get reverse loads. https://www.kobo360.com
 
+• **Kyte** (YC S18) - Intelligent SMS inbox. https://kyte.ai/
+
 • **Leena AI** (YC S18) - Virtual Assistant for enterprise HR departments. https://leena.ai
 
 • **MentalHappy** (YC S18) - Care packages for employees. https://www.mentalhappy.com
