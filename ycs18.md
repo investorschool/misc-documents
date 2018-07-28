@@ -26,6 +26,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Grin Scooters** (YC S18) - Latin America scooter rental. https://ongrin.com
 
+• **Higia** (YC S18) - The first noninvasive wearable device for breast cancer risk assessment. https://www.higia.tech
+
 • **Honeylove** (YC S18) - Women's shapewear. https://www.honeylove.co/
 
 • **iLabService** (YC S18) - Monitoring service for lab equipment. http://www.ilabservice.com
