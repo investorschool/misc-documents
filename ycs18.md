@@ -12,6 +12,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **CowryWise** (YC S18) - Wealth management platform for young Africans. https://cowrywise.com/
 
+• **Cursor Suite** (YC S18)
+
 • **Data Driven Bioscience** (YC S18) - Cancer diagnosis 10X faster, 10X cheaper. http://datadrivenbioscience.com/
 
 • **Dinesafe** (YC S18) - Crowdsourcing food poisoning reports. https://dinesafe.org/
