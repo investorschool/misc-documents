@@ -62,6 +62,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **RevenueCat** (YC S18) - Mobile subscription toolkit for your business. https://www.revenuecat.com/
 
+• **Scanwell** (YC S18) - On-demand relief for urinary tract infections. https://www.scanwellhealth.com/
+
 • **Seattle Food Tech** (YC S18) - vegan chicken. https://www.seattlefoodtech.com
 
 • **Send Reality** (YC S18) - VR real estate tours. http://sendreality.com/
