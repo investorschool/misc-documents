@@ -20,7 +20,7 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Dinesafe** (YC S18) - Crowdsourcing food poisoning reports. https://dinesafe.org/
 
-• **Emptor** (YC S18) -  find and hire local facilities and maintenance providers like janitors, landscapers, etc. https://emptor.ai/
+• **Emptor** (YC S18) - Find and hire local facilities and maintenance providers like janitors, landscapers, etc. https://emptor.ai/
 
 • **ExceptionALLY** (YC S18) - Digital advocate for parents of children with special needs, who must negotiate with the school system. https://growexceptionally.com
 
@@ -68,7 +68,7 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Scanwell** (YC S18) - On-demand relief for urinary tract infections. https://www.scanwellhealth.com/
 
-• **Seattle Food Tech** (YC S18) - vegan chicken. https://www.seattlefoodtech.com
+• **Seattle Food Tech** (YC S18) - Vegan chicken. https://www.seattlefoodtech.com
 
 • **Send Reality** (YC S18) - VR real estate tours. http://sendreality.com/
 
@@ -83,5 +83,7 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 • **Tall Poppy** (YC S18) - Employee security awareness training and compassionate care in case of incidents. https://tallpoppy.io/
 
 • **Titan** (YC S18) - Build & manage investment strategies for the everyday investor. https://www.titanvest.com
+
+• **Toybox** (YC S18) - Communicate changes to sites without writing code. https://toyboxsystems.com
 
 • **Ubits** (YC S18) - Corporate online training for Latin America http://ubits.mx/ubits
