@@ -10,6 +10,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **BotMD** (YC S18) - AI-powered chatbot clinical assistant for doctors living in underserved emerging markets. https://www.botmd.io/en/
 
+• **The Buttermilk Company** (YC S18) - Indian meals in minutes, just add hot water. http://www.thebuttermilkco.com
+
 • **CowryWise** (YC S18) - Wealth management platform for young Africans. https://cowrywise.com/
 
 • **Cursor Suite** (YC S18)
