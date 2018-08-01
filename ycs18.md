@@ -42,6 +42,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Inkhunter** (YC S18) - Augmented reality tattoo try-on app. http://inkhunter.tattoo
 
+• **JITX** (YC S18) - Automating circuit board design. https://www.jitx.com
+
 • **Kobo360** (YC S18) - Truck drivers find loads and get reverse loads. https://www.kobo360.com
 
 • **Kyte** (YC S18) - Intelligent SMS inbox. https://kyte.ai/
