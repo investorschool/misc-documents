@@ -34,6 +34,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Glowing** (YC S18) – Enables hotels and guests to mobile message with each other via existing popular mobile messaging platforms. https://www.glowing.io
 
+• **Grab-it** (YC S18) - Turn rideshare cars into digital billboards. https://grabb-it.io
+
 • **Grin Scooters** (YC S18) - Latin America scooter rental. https://ongrin.com
 
 • **Higia** (YC S18) - The first noninvasive wearable device for breast cancer risk assessment. https://www.higia.tech
@@ -85,6 +87,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 • **Seattle Food Tech** (YC S18) - Vegan chicken. https://www.seattlefoodtech.com
 
 • **Send Reality** (YC S18) - VR real estate tours. http://sendreality.com/
+
+• **SkyDropX** (YC S18) - Last mile delivery. http://www.skydrop.com.mx
 
 • **Snark AI** (YC S18) – Distributed low-cost GPUs for deep learning. https://snark.ai/
 
