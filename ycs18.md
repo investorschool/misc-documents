@@ -16,6 +16,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **CowryWise** (YC S18) - Wealth management platform for young Africans. https://cowrywise.com/
 
+• **Culdesac** (YC S18) - Real estate. culdesac.life 
+
 • **Cursor Suite** (YC S18)
 
 • **Data Driven Bioscience** (YC S18) - Cancer diagnosis 10X faster, 10X cheaper. http://datadrivenbioscience.com/
@@ -68,6 +70,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Papa** (YC S18) - Connecting senior citizens to area college students. https://www.joinpapa.com/
 
+• **Penta Medical** (YC S18) - At-home atheletic physical therapy device. http://pentavo.com/
+
 • **Plexus** (YC S18) - AR/VR controller gloves.  http://plexus.im/
 
 • **RevenueCat** (YC S18) - Mobile subscription toolkit for your business. https://www.revenuecat.com/
@@ -93,3 +97,5 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 • **Toybox** (YC S18) - Communicate changes to sites without writing code. https://toyboxsystems.com
 
 • **Ubits** (YC S18) - Corporate online training for Latin America http://ubits.mx/ubits
+
+• **Zyp.ai** (YC S18) - Checkout-less shopping using computer vision. https://www.zyp.ai/ 
