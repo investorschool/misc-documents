@@ -38,7 +38,7 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Goodly** (YC S18) – Student loan payments as an employee benefit. https://www.goodlyapp.com/
 
-• **Grab-it** (YC S18) - Turn rideshare cars into digital billboards. https://grabb-it.io
+• **Grabb-it** (YC S18) - Turn rideshare cars into digital billboards. https://grabb-it.io
 
 • **Grin Scooters** (YC S18) - Latin America scooter rental. https://ongrin.com
 
