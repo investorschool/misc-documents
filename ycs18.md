@@ -52,6 +52,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **JITX** (YC S18) - Automating circuit board design. https://www.jitx.com
 
+• **Kinside** (YC S18) - Simplifying dependent care flexible spending accounts https://www.trykinside.com/
+
 • **Kobo360** (YC S18) - Truck drivers find loads and get reverse loads. https://www.kobo360.com
 
 • **Kyte** (YC S18) - Intelligent SMS inbox. https://kyte.ai/
