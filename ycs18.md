@@ -36,6 +36,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Glowing** (YC S18) – Enables hotels and guests to mobile message with each other via existing popular mobile messaging platforms. https://www.glowing.io
 
+• **Goodly** (YC S18) – Student loan payments as an employee benefit. https://www.goodlyapp.com/
+
 • **Grab-it** (YC S18) - Turn rideshare cars into digital billboards. https://grabb-it.io
 
 • **Grin Scooters** (YC S18) - Latin America scooter rental. https://ongrin.com
