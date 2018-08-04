@@ -86,6 +86,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Prodigal** (YC S18) - Software to improve how lenders work with borrowers. https://www.prodigaltech.com
 
+• **Public Recreation** (YC S18) - Outdoor gym with unlimited classes for $50/month. http://www.publicrecreation.com
+
 • **RevenueCat** (YC S18) - Mobile subscription toolkit for your business. https://www.revenuecat.com/
 
 • **Scanwell** (YC S18) - On-demand relief for urinary tract infections. https://www.scanwellhealth.com/
