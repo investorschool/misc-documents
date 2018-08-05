@@ -50,6 +50,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Inkhunter** (YC S18) - Augmented reality tattoo try-on app. http://inkhunter.tattoo
 
+• **JetLenses** (YC S18) - We sell contacts at the lowest prices with smart ad targeting and automation. https://beta.jetlenses.com
+
 • **JITX** (YC S18) - Automating circuit board design. https://www.jitx.com
 
 • **Kinside** (YC S18) - Simplifying dependent care flexible spending accounts https://www.trykinside.com/
