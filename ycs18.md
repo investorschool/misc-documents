@@ -116,6 +116,10 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Toybox** (YC S18) - Communicate changes to sites without writing code. https://toyboxsystems.com
 
-• **Ubits** (YC S18) - Corporate online training for Latin America http://ubits.mx/ubits
+• **Ubits** (YC S18) - Corporate online training for Latin America. http://ubits.mx/ubits
+
+• **Zbiotics** (YC S18) - Genetically engineered priobiotics (and a hangover cure). http://zbiotics.com/
+
+• **ZiffyHomes** (YC S18) - Property management for furnished rooms in India. https://www.ziffyhomes.com/
 
 • **Zyp.ai** (YC S18) - Checkout-less shopping using computer vision. https://www.zyp.ai/ 
