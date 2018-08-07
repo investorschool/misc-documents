@@ -62,6 +62,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Leena AI** (YC S18) - Virtual Assistant for enterprise HR departments. https://leena.ai
 
+• **LemonBox** (YC S18) - China-U.S. startup that lets Chinese consumers buy U.S. health products at affordable prices. http://www.lemonbox.me
+
 • **MentalHappy** (YC S18) - Care packages for employees. https://www.mentalhappy.com
 
 • **Meru Health** (YC S18) - Online medical clinic for depression/burnout/anxiety treatment. https://www.meruhealth.com
