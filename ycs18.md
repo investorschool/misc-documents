@@ -8,6 +8,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **AnnieCannons** (YC S18) - A non-profit that performs software-development-as-a-service. https://www.anniecannons.org/
 
+* **AskMyClass** (YC S18) - Voice-enabled teaching assistant. https://goaskmyclass.com
+
 • **BotMD** (YC S18) - AI-powered chatbot clinical assistant for doctors living in underserved emerging markets. https://www.botmd.io/en/
 
 • **BrainHi** (YC S18) - Automated receptionist for healthcare provider offices. https://www.brainhi.com
