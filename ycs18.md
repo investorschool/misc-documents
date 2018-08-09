@@ -66,6 +66,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **LemonBox** (YC S18) - China-U.S. startup that lets Chinese consumers buy U.S. health products at affordable prices. http://www.lemonbox.me
 
+• **Mac'D** (YC S18) - Fast-Casual, Build-Your-own Mac and Cheese. https://getmacd.com
+
 • **MentalHappy** (YC S18) - Care packages for employees. https://www.mentalhappy.com
 
 • **Meru Health** (YC S18) - Online medical clinic for depression/burnout/anxiety treatment. https://www.meruhealth.com
