@@ -16,6 +16,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **The Buttermilk Company** (YC S18) - Indian meals in minutes, just add hot water. http://www.thebuttermilkco.com
 
+• **ClearView MD** (YC S18) - Sensors & software that optimize the flow of patients & doctors through medical facilities. http://www.clearviewmd.co
+
 • **CowryWise** (YC S18) - Wealth management platform for young Africans. https://cowrywise.com/
 
 • **Culdesac** (YC S18) - Real estate. https://www.culdesac.life/
@@ -68,6 +70,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Mac'D** (YC S18) - Fast-Casual, Build-Your-own Mac and Cheese. https://getmacd.com
 
+• **Medinas Health** (YC S18) - Helps hospitals resell their surplus medical supplies & equipment. http://www.medinashealth.com
+
 • **MentalHappy** (YC S18) - Care packages for employees. https://www.mentalhappy.com
 
 • **Meru Health** (YC S18) - Online medical clinic for depression/burnout/anxiety treatment. https://www.meruhealth.com
@@ -96,6 +100,10 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Public Recreation** (YC S18) - Outdoor gym with unlimited classes for $50/month. http://www.publicrecreation.com
 
+• **Qurasense** (YC S18)
+
+• **RealtyBits** (YC S18) - Cryptocurrency denominated in American Real Estate. https://www.realtybits.com
+
 • **RevenueCat** (YC S18) - Mobile subscription toolkit for your business. https://www.revenuecat.com/
 
 • **Scanwell** (YC S18) - On-demand relief for urinary tract infections. https://www.scanwellhealth.com/
@@ -121,6 +129,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 • **Toybox** (YC S18) - Communicate changes to sites without writing code. https://toyboxsystems.com
 
 • **Ubits** (YC S18) - Corporate online training for Latin America. http://ubits.mx/ubits
+
+• **ViaOpt** (YC S18) - Helps companies save money and time on shipments by sharing trucks. http://www.viaopt.com
 
 • **Zbiotics** (YC S18) - Genetically engineered priobiotics (and a hangover cure). http://zbiotics.com/
 
