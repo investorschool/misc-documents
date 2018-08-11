@@ -1,5 +1,7 @@
 List of YC S18 batch startups (updated as they make themselves publicly known).
 
+• **64-x** (YC S18) - Genome engineering to enable organisms like E. coli to carry out functions and operate in otherwise inaccessible environments. https://www.64-x.com
+
 • **Aalo** (YC S18) - Customizable furniture made easy and affordable. https://shop.aalo.co
 
 • **Alpha Vantage** (YC S18) - We provide accessible & affordable APIs for financial market data. https://www.alphavantage.co
