@@ -4,6 +4,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Aalo** (YC S18) - Customizable furniture made easy and affordable. https://shop.aalo.co
 
+• **Ajaib** (YC S18) - First roboadvisor in Indonesia. https://www.ajaib.co.id
+
 • **Alpha Vantage** (YC S18) - We provide accessible & affordable APIs for financial market data. https://www.alphavantage.co
 
 • **Anima** (YC S18) – Automating front-end development. https://www.animaapp.com/
