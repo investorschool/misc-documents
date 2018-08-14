@@ -32,6 +32,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Cursor Suite** (YC S18)
 
+• **Cytera Cellworks** (YC S18) - Automating cell cultures. https://www.cytera.bio/
+
 • **Data Driven Bioscience** (YC S18) - Cancer diagnosis 10X faster, 10X cheaper. http://datadrivenbioscience.com/
 
 • **Dinesafe** (YC S18) - Crowdsourcing food poisoning reports. https://dinesafe.org/
@@ -44,6 +46,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Federacy** (YC S18) – Bug bounty platform for startups. https://www.federacy.com
 
+• **Fintual** (YC S18) – Automated wealth management for Latin America. https://fintual.com
+
 • **Frey** (YC S18) – Laundry and clothing care products tailored for men. https://livefrey.com
 
 • **Glowing** (YC S18) – Enables hotels and guests to mobile message with each other via existing popular mobile messaging platforms. https://www.glowing.io
@@ -53,6 +57,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 • **Grabb-it** (YC S18) - Turn rideshare cars into digital billboards. https://grabb-it.io
 
 • **Grin Scooters** (YC S18) - Latin America scooter rental. https://ongrin.com
+
+• **HappiLabs** (YC S18) - Automating purchasing and finances for scientific labs. https://happilabs.org
 
 • **HeyDoctor** (YC S18) - Affordable, secure online medical visits. https://heydoctor.co
 
