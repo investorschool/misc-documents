@@ -44,6 +44,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Federacy** (YC S18) – Bug bounty platform for startups. https://www.federacy.com
 
+• **Fintual** (YC S18) – Automated wealth management for Latin America. https://fintual.com
+
 • **Frey** (YC S18) – Laundry and clothing care products tailored for men. https://livefrey.com
 
 • **Glowing** (YC S18) – Enables hotels and guests to mobile message with each other via existing popular mobile messaging platforms. https://www.glowing.io
