@@ -132,6 +132,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Snark AI** (YC S18) – Distributed low-cost GPUs for deep learning. https://snark.ai/
 
+• **Spero Foods** (YC S18) – Employing data & food science, we're recreating dairy and egg products. https://www.sperofoods.co
+
 • **Splish** (YC S18) - Looping Videos with Friends. Available on iOS. https://splish.app/
 
 • **Synthetic Minds** (YC S18) - Program synthesis to protect Dapps. https://synthetic-minds.com/
