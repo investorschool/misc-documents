@@ -116,7 +116,7 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Public Recreation** (YC S18) - Outdoor gym with unlimited classes for $50/month. http://www.publicrecreation.com
 
-• **Qurasense** (YC S18)
+• **Qurasense** (YC S18) - Health tracking menstrual pad. http://www.qurasense.com
 
 • **RealtyBits** (YC S18) - Cryptocurrency denominated in American Real Estate. https://www.realtybits.com
 
