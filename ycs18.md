@@ -100,7 +100,7 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Modern Treasury** (YC S18) - Simplifying and modernizing payments for businesses. https://www.moderntreasury.com
 
-• **Momentus Space** (YC 18) - In-space rockets powered by water plasma engines. http://www.momentus.space
+• **Momentus Space** (YC S18) - In-space rockets powered by water plasma engines. http://www.momentus.space
 
 • **Mylk Guys** (YC S18) - Vegan grocery delivery. https://www.mylkguys.com
 
