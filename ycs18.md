@@ -96,6 +96,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Mylk Guys** (YC S18) - Vegan grocery delivery. https://www.mylkguys.com
 
+• **Numericcal** (YC S18) - Life cycle management of machine learning models. https://www.numericcal.com/
+
 • **OneGraph** (YC S18) - Build API Integrations with GraphQL. https://www.onegraph.com
 
 • **OpenPhone** (YC S18) - Phone system for small businesses. https://www.openphone.co
