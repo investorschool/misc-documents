@@ -8,6 +8,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Ajaib** (YC S18) - First roboadvisor in Indonesia. https://www.ajaib.co.id
 
+• **Allotrope Medical** (YC S18) - Advancing surgical precision through safe electrical stimulation. https://www.allotropemed.com
+
 • **Alpha Vantage** (YC S18) - We provide accessible & affordable APIs for financial market data. https://www.alphavantage.co
 
 • **Anima** (YC S18) – Automating front-end development. https://www.animaapp.com/
@@ -79,6 +81,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 • **Kinside** (YC S18) - Simplifying dependent care flexible spending accounts https://www.trykinside.com/
 
 • **Kobo360** (YC S18) - Truck drivers find loads and get reverse loads. https://www.kobo360.com
+
+• **Kunduz** (YC S18) - Makes test prep 10x faster & cheaper for students, from Turkey. https://kunduzapp.com
 
 • **Kyte** (YC S18) - Intelligent SMS inbox. https://kyte.ai/
 
