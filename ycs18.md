@@ -32,6 +32,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **CowryWise** (YC S18) - Wealth management platform for young Africans. https://cowrywise.com/
 
+• **CSPA** (YC S18) - The Computer Science Proficiency Assessment (CSPA™) is a comprehensive standardized exam for software engineers. https://cspa.io
+
 • **Culdesac** (YC S18) - Real estate. https://www.culdesac.life/
 
 • **Cursor Suite** (YC S18)
@@ -70,6 +72,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Honeylove** (YC S18) - Women's shapewear. https://www.honeylove.co/
 
+• **Hypcloud** (YC S18) - Tech-enabled commercial mortgage broker. https://www.hypcloud.com
+
 • **iLabService** (YC S18) - Monitoring service for lab equipment. http://www.ilabservice.com
 
 • **Inkhunter** (YC S18) - Augmented reality tattoo try-on app. http://inkhunter.tattoo
@@ -105,6 +109,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 • **Mylk Guys** (YC S18) - Vegan grocery delivery. https://www.mylkguys.com
 
 • **Numericcal** (YC S18) - Life cycle management of machine learning models. https://www.numericcal.com/
+
+• **OkCredit** (YC S18) - App to enable SMBs in India to track credit issued to their customers. https://get.okcredit.in
 
 • **OneGraph** (YC S18) - Build API Integrations with GraphQL. https://www.onegraph.com
 
