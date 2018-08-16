@@ -4,6 +4,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Aalo** (YC S18) - Customizable furniture made easy and affordable. https://shop.aalo.co
 
+• **Abacus Protocol** (YC S18) - An identity and compliance protocol for security tokens. https://abacusprotocol.com
+
 • **Ajaib** (YC S18) - First roboadvisor in Indonesia. https://www.ajaib.co.id
 
 • **Alpha Vantage** (YC S18) - We provide accessible & affordable APIs for financial market data. https://www.alphavantage.co
@@ -92,6 +94,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Meru Health** (YC S18) - Online medical clinic for depression/burnout/anxiety treatment. https://www.meruhealth.com
 
+• **Modern Treasury** (YC S18) - Simplifying and modernizing payments for businesses. https://www.moderntreasury.com
+
 • **Momentus Space** (YC 18) - In-space rockets powered by water plasma engines. http://www.momentus.space
 
 • **Mylk Guys** (YC S18) - Vegan grocery delivery. https://www.mylkguys.com
@@ -124,11 +128,15 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **RevenueCat** (YC S18) - Mobile subscription toolkit for your business. https://www.revenuecat.com/
 
+• **RideAlong** (YC S18) - Mobile app that presents information on individuals who frequently use emergency services. https://getridealong.com
+
 • **Scanwell** (YC S18) - On-demand relief for urinary tract infections. https://www.scanwellhealth.com/
 
 • **Seattle Food Tech** (YC S18) - Vegan chicken. https://www.seattlefoodtech.com
 
 • **Send Reality** (YC S18) - VR real estate tours. http://sendreality.com/
+
+• **Shelf Engine** (YC S18) - Software to reduce food waste by retailers. https://try.shelfengine.com/getstarted/
 
 • **SkyDropX** (YC S18) - Last mile delivery. http://www.skydrop.com.mx
 
