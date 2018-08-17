@@ -76,13 +76,19 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **iLabService** (YC S18) - Monitoring service for lab equipment. http://www.ilabservice.com
 
+• **Incentivai** (YC S18) - Infosec utility to simulate blockchain hacking. http://incentivai.co
+
 • **Inkhunter** (YC S18) - Augmented reality tattoo try-on app. http://inkhunter.tattoo
+
+• **Inokyo** (YC S18) - We build cashierless stores that let people walk in, grab what they want, and just walk out. https://www.inokyo.com
 
 • **JetLenses** (YC S18) - We sell contacts at the lowest prices with smart ad targeting and automation. https://beta.jetlenses.com
 
 • **JITX** (YC S18) - Automating circuit board design. https://www.jitx.com
 
 • **Kinside** (YC S18) - Simplifying dependent care flexible spending accounts https://www.trykinside.com/
+
+• **Klarity** (YC S18) - Automating contract review for attorneys. https://www.klaritylaw.com
 
 • **Kobo360** (YC S18) - Truck drivers find loads and get reverse loads. https://www.kobo360.com
 
@@ -105,6 +111,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 • **Modern Treasury** (YC S18) - Simplifying and modernizing payments for businesses. https://www.moderntreasury.com
 
 • **Momentus Space** (YC S18) - In-space rockets powered by water plasma engines. http://www.momentus.space
+
+• **Mutiny** (YC S18) - Helps businesses personalize their websites for each visitor. https://www.mutinyhq.com
 
 • **Mylk Guys** (YC S18) - Vegan grocery delivery. https://www.mylkguys.com
 
@@ -155,6 +163,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 • **Spero Foods** (YC S18) – Employing data & food science, we're recreating dairy and egg products. https://www.sperofoods.co
 
 • **Splish** (YC S18) - Looping Videos with Friends. Available on iOS. https://splish.app/
+
+• **Sterblue** (YC S18) - Infrastructure inspection with off-the-shelf drones. https://www.sterblue.com/en/
 
 • **Synthetic Minds** (YC S18) - Program synthesis to protect Dapps. https://synthetic-minds.com/
 
