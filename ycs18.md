@@ -20,6 +20,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **BHRD** (YC S18) - BHRD ("Be Heard") helps public companies communicate with investors. http://bhrd.ca
 
+• **BlueCargo** (YC S18) - Helps marine port terminals streamline port container management. https://www.bluecargo.io
+
 • **BotMD** (YC S18) - AI-powered chatbot clinical assistant for doctors living in underserved emerging markets. https://www.botmd.io/en/
 
 • **BrainHi** (YC S18) - Automated receptionist for healthcare provider offices. https://www.brainhi.com
@@ -53,6 +55,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 • **Federacy** (YC S18) – Bug bounty platform for startups. https://www.federacy.com
 
 • **Fintual** (YC S18) – Automated wealth management for Latin America. https://fintual.com
+
+• **Fixers** (YC S18) - Travel and experiences marketplace. https://fixersworld.com
 
 • **Frey** (YC S18) – Laundry and clothing care products tailored for men. https://livefrey.com
 
