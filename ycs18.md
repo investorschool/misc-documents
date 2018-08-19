@@ -18,6 +18,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **AskMyClass** (YC S18) - Voice-enabled teaching assistant. https://goaskmyclass.com
 
+• **Berbix** (YC S18) - Identity verification and fraud deterrence as a service. https://berbix.com/
+
 • **BHRD** (YC S18) - BHRD ("Be Heard") helps public companies communicate with investors. http://bhrd.ca
 
 • **BlueCargo** (YC S18) - Helps marine port terminals streamline port container management. https://www.bluecargo.io
