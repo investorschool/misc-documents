@@ -34,6 +34,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Canary Technologies** (YC S18) - We bring offline hotel bookings online. https://www.canarytechnologies.com
 
+• **CB Therapeutics** (YC S18) - Producing pure cannabinoids like CBD and THC using yeast and sugar. No plants involved. https://cbthera.com/
+
 • **Cheerbox** (YC S18) - For larger employers, send thoughtful custom gifts for employees who have significant life events. http://www.cheerbox.com/
  
 • **ClearView MD** (YC S18) - Sensors & software that optimize the flow of patients & doctors through medical facilities. http://www.clearviewmd.co
