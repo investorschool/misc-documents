@@ -30,9 +30,15 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Cambridge Glycoscience** (YC S18) - Sugar substitutes for use in food. http://www.camglyco.com
 
+• **Camelot AI** (YC S18) - eSports betting platform. https://camelot.ai/
+
 • **Canary Technologies** (YC S18) - We bring offline hotel bookings online. https://www.canarytechnologies.com
 
+• **Cheerbox** (YC S18) - For larger employers, send thoughtful custom gifts for employees who have significant life events. http://www.cheerbox.com/
+ 
 • **ClearView MD** (YC S18) - Sensors & software that optimize the flow of patients & doctors through medical facilities. http://www.clearviewmd.co
+
+• **College Pulse** (YS S18) - Social polling platform for college campuses. https://collegepulse.com/
 
 • **CowryWise** (YC S18) - Wealth management platform for young Africans. https://cowrywise.com/
 
