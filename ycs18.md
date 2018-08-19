@@ -146,6 +146,8 @@ List of YC S18 batch startups (updated as they make themselves publicly known).
 
 • **Outvote** (YC S18) - Political app for Democrats to remind their friends to register and vote. https://www.outvote.io
 
+• **Oxygen** (YC S18) - Oxygen is banking and lending for the gig-economy. http://getoxygen.com/
+
 • **Papa** (YC S18) - Connecting senior citizens to area college students. https://www.joinpapa.com/
 
 • **Pareto Life Sciences** (YC S18) - Donor compensated stem cell marketplace. https://www.paretolifesciences.com
