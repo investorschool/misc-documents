@@ -23,12 +23,16 @@
 	Do you have an accountant  
 	How do you keep track of the books  
 	How do you make money  
+	
+* Founders  
+
+	How many founders are there?  
+	Who are the founders and what is their background?  
+	Do the founders have expertise in the vertical or experience running a company?  
+	How did the founders meet?  
 
 * Organizational
 
-	How many founders  
-	Who are the founders and their background  
-	Do the founders have experience in the vertical or running companies  
 	How is equity split  
 	Who is the CEO  
 	Who is on the Board  
