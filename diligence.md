@@ -2,7 +2,7 @@
   
 * Product and traction  
 
-        What do you make and sell?  
+	What do you make and sell?  
 	Who are your customers now?  
 	Who will you customers be in three years?  
         Examine the product and its craftsmanship  
@@ -31,7 +31,7 @@
 	
 * Founders  
 
-        Why did you start this company?  
+	Why did you start this company?  
 	How many founders are there?  
 	Who are the founders and what is their background?  
 	Do the founders have expertise in the vertical or experience running a company?  
@@ -60,7 +60,7 @@
 
 * Intellectual Property and Competitive Landscape
 
-        Are employee/advisor IP agreements in place?  
+	Are employeee/advisor IP agreements in place?  
 	Has anyone else advised, consulted, or helped create the product or service that does not have a written agreement with the company?  
 	Who are your competitors?  
 	How do distinguish yourself from the competition?  
@@ -69,8 +69,8 @@
 	
 * Sales and Marketing  
 
-       How do you sell the product?  
-       What is your vision for sales, marketing, and branding?  
+    How do you sell the product?  
+    What is your vision for sales, marketing, and branding?
 
 * Well-being
 
