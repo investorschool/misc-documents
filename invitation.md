@@ -11,7 +11,9 @@ Here's a link with event and RSVP information.
 
 The event may be livestreamed, though we can arrange to exclude your pitch from that if you prefer.
 
-Please contact me if you have questions. As the event nears, if you need to phone or text me, my cell is (**(xxx) xxx-xxxx**). I am looking forward to meeting you and learning more about (**Company Name**) in a couple of weeks!
+Please confirm your attendance by return email, and also feel free to contact me if you have questions. 
+
+As the event nears, if you need to phone or text me, my cell is (**(xxx) xxx-xxxx**). I am looking forward to meeting you and learning more about (**Company Name**) in a couple of weeks!
 
 Best,  
 Alan Glennon
