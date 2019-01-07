@@ -3,6 +3,7 @@ List of YC W19 batch startups (updated as they make themselves publicly known).
 • **Allure Systems** -- Automates the production of fashion product images. http://www.alluresystems.com/  <p />
 • **BlitzIQ**  <p />
 • **Career Karma** -- Career guidance for coding bootcamp selection. https://careerkarma.io/  <p />
+• **Edyst** -- Online learning for software developers. https://edyst.com/  <p />
 • **Flockjay** -- A $0-upfront online sales academy. https://flockjay.com/  <p />
 • **Inkmango** -- South Asia subscription newsletter. https://www.inkmango.com/  <p />
 • **Manycore.io** -- Speed up computer programs by spreading them across cores. https://www.manycore.io/  <p />
