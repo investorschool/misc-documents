@@ -1,6 +1,7 @@
 List of YC W19 batch startups (updated as they make themselves publicly known).
 
 • **Allure Systems** -- Automates the production of fashion product images. http://www.alluresystems.com/  <p />
+• **Bagel** -- Software for direct primary care (DPC) physicians. https://bagel.md/  <p />
 • **BlitzIQ**  <p />
 • **Catch** -- Consolidated insurance, savings, and benefits platform. https://www.catch.co/ <p />
 • **Career Karma** -- Career guidance for coding bootcamp selection. https://careerkarma.io/  <p />
