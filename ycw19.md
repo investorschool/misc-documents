@@ -2,6 +2,7 @@ List of YC W19 batch startups (updated as they make themselves publicly known).
 
 • **Allure Systems** -- Automates the production of fashion product images. http://www.alluresystems.com/  <p />
 • **BlitzIQ**  <p />
+• **Catch** -- Consolidated insurance, savings, and benefits platform. https://www.catch.co/ <p />
 • **Career Karma** -- Career guidance for coding bootcamp selection. https://careerkarma.io/  <p />
 • **Doorport** -- Smart door access. https://www.doorport.com/  <p />
 • **Edyst** -- Online learning for software developers. https://edyst.com/  <p />
