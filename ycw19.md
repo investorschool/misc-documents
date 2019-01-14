@@ -10,6 +10,7 @@ List of YC W19 batch startups (updated as they make themselves publicly known).
 • **Doorport** -- Smart door access. https://www.doorport.com/  <p />
 • **Edyst** -- Online learning for software developers. https://edyst.com/  <p />
 • **Flockjay** -- A $0-upfront online sales academy. https://flockjay.com/  <p />
+• **Hatch** -- Helps companies continue conversations with 'cancelled' customers. https://usehatchapp.com/  <p />
 • **Inkmango** -- South Asia subscription newsletter. https://www.inkmango.com/  <p />
 • **Manycore.io** -- Speed up computer programs by spreading them across cores. https://www.manycore.io/  <p />
 • **Middesk** -- Onboard clients faster by streamlining middle office processes. https://www.middesk.com/  <p />
