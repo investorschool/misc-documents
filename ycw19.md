@@ -13,6 +13,7 @@ List of YC W19 batch startups (updated as they make themselves publicly known).
 • **Hatch** -- Helps companies continue conversations with 'cancelled' customers. https://usehatchapp.com/  <p />
 • **Inkmango** -- South Asia subscription newsletter. https://www.inkmango.com/  <p />
 • **Keeper Tax** -- Personal bookkeeper for 1099 self-employed workers. https://keepertax.com/  <p />
+• **Maitian.ai** -- Inexpensive, flexible vending machine powered computer vision.  https://www.maitian.ai  <p />
 • **Manycore.io** -- Speed up computer programs by spreading them across cores. https://www.manycore.io/  <p />
 • **Middesk** -- Onboard clients faster by streamlining middle office processes. https://www.middesk.com/  <p />
 • **RCT Studio** -- Creative film studio. https://rct-studio.com/  <p />
