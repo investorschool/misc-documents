@@ -18,6 +18,7 @@ List of YC W19 batch startups (updated as they make themselves publicly known).
 • **Manycore.io** -- Speed up computer programs by spreading them across cores. https://www.manycore.io/  <p />
 • **Middesk** -- Onboard clients faster by streamlining middle office processes. https://www.middesk.com/  <p />
 • **RCT Studio** -- Creative film studio. https://rct-studio.com/  <p />
+• **Shef** <p />
 • **Skill Lync** -- Online educational platform for engineering. https://courses.skill-lync.com/  <p />
 • **Supernova** -- Automates the development of mobile apps. http://www.supernova.studio  <p />
 • **Thrive Agric** -- Connects Farmers in emerging markets, esp Nigeria, to Finance, Agronomic Practices& Market. https://www.thriveagric.com/  <p />
