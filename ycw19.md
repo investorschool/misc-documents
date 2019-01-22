@@ -1,4 +1,4 @@
-List of YC W19 batch startups (updated as they make themselves publicly known).
+Unofficial list of YC W19 batch startups (updated as they make themselves publicly known).
 
 • **Allpro Technologies** -- Financing platform for education in Africa. https://allprotech.co/  <p />
 • **Allure Systems** -- Automates the production of fashion product images. http://www.alluresystems.com/  <p />
