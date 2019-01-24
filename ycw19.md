@@ -1,5 +1,6 @@
 Unofficial list of YC W19 batch startups (updated as they make themselves publicly known).
 
+• **Allo** -- Community app to facilitate errands and favors. https://www.allocommunity.com/ <p />
 • **Allpro Technologies** -- Financing platform for education in Africa. https://allprotech.co/  <p />
 • **Allure Systems** -- Automates the production of fashion product images. http://www.alluresystems.com/  <p />
 • **Bagel** -- Software for direct primary care (DPC) physicians. https://bagel.md/  <p />
