@@ -7,6 +7,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **BlitzIQ**  <p />
 • **Catch** -- Consolidated insurance, savings, and benefits platform. https://www.catch.co/ <p />
 • **Career Karma** -- Career guidance for coding bootcamp selection. https://careerkarma.io/  <p />
+• **CredPal** -- Consumer credit company that provides point of sale financing in Africa. https://credpal.com/  <p />
 • **Docucharm** -- Automate data extraction from documents. https://docucharm.com/  <p />
 • **Doorport** -- Smart door access. https://www.doorport.com/  <p />
 • **Edyst** -- Online learning for software developers. https://edyst.com/  <p />
