@@ -10,6 +10,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Career Karma** -- Career guidance for coding bootcamp selection. https://careerkarma.io/  <p />
 • **Cosmic JS** -- CMS hosting and maintenance. https://cosmicjs.com/ <p />
 • **CredPal** -- Consumer credit company that provides point of sale financing in Africa. https://credpal.com/  <p />
+• **DevFlight** -- Job placement for open source software maintainers. https://devflight.com/ <p />
 • **Docucharm** -- Automate data extraction from documents. https://docucharm.com/  <p />
 • **Doorport** -- Smart door access. https://www.doorport.com/  <p />
 • **Edyst** -- Online learning for software developers. https://edyst.com/  <p />
