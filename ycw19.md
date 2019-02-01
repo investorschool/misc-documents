@@ -5,7 +5,9 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Allure Systems** -- Automates the production of fashion product images. http://www.alluresystems.com/  <p />
 • **Bagel** -- Software for direct primary care (DPC) physicians. https://bagel.md/  <p />
 • **BlitzIQ**  <p />
+• **Board** -- Facilitating all-cash offers on homes. https://www.board.live/ <p />
 • **Brain Key** -- Neuroscience with AI. https://www.brainkey.ai/ <p />
+• **Brew** -- Tipping platform for supporting content creators. https://brew.com/ <p />
 • **Catch** -- Consolidated insurance, savings, and benefits platform. https://www.catch.co/ <p />
 • **Career Karma** -- Career guidance for coding bootcamp selection. https://careerkarma.io/  <p />
 • **Cosmic JS** -- CMS hosting and maintenance. https://cosmicjs.com/ <p />
@@ -30,6 +32,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **RCT Studio** -- Creative film studio. https://rct-studio.com/  <p />
 • **Shef** <p />
 • **Skill Lync** -- Online educational platform for engineering. https://courses.skill-lync.com/  <p />
+• **Socrates Intelligence** <p />
 • **Supernova** -- Automates the development of mobile apps. http://www.supernova.studio  <p />
 • **TailorED** -- Helps K-12 teachers find effective educational content for each student. https://www.tailor-ed.com/  <p />
 • **Thrive Agric** -- Connects Farmers in emerging markets, esp Nigeria, to Finance, Agronomic Practices& Market. https://www.thriveagric.com/  <p />
