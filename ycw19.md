@@ -16,6 +16,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Docucharm** -- Automate data extraction from documents. https://docucharm.com/  <p />
 • **Doorport** -- Smart door access. https://www.doorport.com/  <p />
 • **Edyst** -- Online learning for software developers. https://edyst.com/  <p />
+• **Elpha** -- Women in tech community. https://elpha.com/  <p />
 • **Flockjay** -- A $0-upfront online sales academy. https://flockjay.com/  <p />
 • **Foodie** -- Food review app for individual restaurant dishes. https://www.thefoodieapp.com/  <p />
 • **Glide** -- Apps without code. https://www.glideapps.com/  <p />
