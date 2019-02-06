@@ -1,4 +1,4 @@
-Unofficial list of YC W19 batch startups (updated as they make themselves publicly known).
+Unofficial list of YC W19 batch startups (updated as they make themselves publicly known). If you do a pull request, please put a link in the commit note that shows the startup/YC W19 connection. 
 
 • **Allo** -- Community app to facilitate errands and favors. https://www.allocommunity.com/ <p />
 • **Allpro Technologies** -- Financing platform for education in Africa. https://allprotech.co/  <p />
