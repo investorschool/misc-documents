@@ -25,6 +25,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Keeper Tax** -- Personal bookkeeper for 1099 self-employed workers. https://keepertax.com/  <p />
 • **Maitian.ai** -- Inexpensive, flexible vending machine powered computer vision.  https://www.maitian.ai  <p />
 • **Manycore.io** -- Speed up computer programs by spreading them across cores. https://www.manycore.io/  <p />
+• **MedCrypt** -- Encryption security for medical devices.  https://www.medcrypt.co/  <p />
 • **Middesk** -- Onboard clients faster by streamlining middle office processes. https://www.middesk.com/  <p />
 • **NAD Grid** -- P2P electricity exchange market. https://nadgrid.com/ <p />
 • **Our World in Data** -- Non-profit focusing on global data synthesis and dissemination. https://ourworldindata.org/ <p />
