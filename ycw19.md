@@ -5,7 +5,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Allure Systems** -- Automates the production of fashion product images. http://www.alluresystems.com/  <p />
 • **Bagel** -- Software for direct primary care (DPC) physicians. https://bagel.md/  <p />
 • **Balto** -- Organize and bet on fantasy sports games. https://playbalto.com/  <p />
-• **BlitzIQ**  <p />
+• **BlitzIQ** -- Sales insight web platform for sales representatives and managers.  <p />
 • **Board** -- Facilitating all-cash offers on homes. https://www.board.live/ <p />
 • **Brain Key** -- Neuroscience with AI. https://www.brainkey.ai/ <p />
 • **Brew** -- Tipping platform for supporting content creators. https://brew.com/ <p />
