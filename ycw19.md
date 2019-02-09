@@ -22,6 +22,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Flockjay** -- A $0-upfront online sales academy. https://flockjay.com/  <p />
 • **Foodie** -- Food review app for individual restaurant dishes. https://www.thefoodieapp.com/  <p />
 • **Glide** -- Apps without code. https://www.glideapps.com/  <p />
+• **Gordian Software** -- API for travel booking sites to sell airline seats & bags. https://www.gordiansoftware.com/  <p />
 • **Hatch** -- Helps companies continue conversations with 'cancelled' customers. https://usehatchapp.com/  <p />
 • **Inkmango** -- South Asia subscription newsletter. https://www.inkmango.com/  <p />
 • **Keeper Tax** -- Personal bookkeeper for 1099 self-employed workers. https://keepertax.com/  <p />
