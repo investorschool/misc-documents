@@ -34,7 +34,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Pachama** -- Marketplace for Forest Carbon Credits. https://www.pachama.com/ <p />
 • **Pengram** -- Make and share AR instructions with your phone. http://www.pengramar.com/ <p />
 • **RCT Studio** -- Creative film studio. https://rct-studio.com/  <p />
-• **Shef** Marketplace for amateur-cooked Indian meals. https://ordershef.com/  <p />
+• **Shef** -- Marketplace for amateur-cooked Indian meals. https://ordershef.com/  <p />
 • **Skill Lync** -- Online educational platform for engineering. https://courses.skill-lync.com/  <p />
 • **Socrates Intelligence** <p />
 • **Superb AI** -- Training Data as a Service--data collection and labeling--for image, video and text data. http://www.superb-ai.com/  <p />
