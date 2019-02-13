@@ -19,11 +19,13 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **DevFlight** -- Job placement for open source software maintainers. https://devflight.com/ <p />
 • **Docucharm** -- Automate data extraction from documents. https://docucharm.com/  <p />
 • **Doorport** -- Smart door access. https://www.doorport.com/  <p />
+• **Dyneti** -- Validate credit card by taking a picture of it. https://dyneti.com/  <p />
 • **Edyst** -- Online learning for software developers. https://edyst.com/  <p />
 • **Elpha** -- Women in tech community. https://elpha.com/  <p />
 • **Flockjay** -- A $0-upfront online sales academy. https://flockjay.com/  <p />
 • **Foodie** -- Food review app for individual restaurant dishes. https://www.thefoodieapp.com/  <p />
 • **Glide** -- Apps without code. https://www.glideapps.com/  <p />
+• **GoLinks** -- Short web-like links for intranet use. https://www.golinks.io/  <p />
 • **Gordian Software** -- API for travel booking sites to sell airline seats & bags. https://www.gordiansoftware.com/  <p />
 • **Hatch** -- Helps companies continue conversations with 'cancelled' customers. https://usehatchapp.com/  <p />
 • **Inkmango** -- South Asia subscription newsletter. https://www.inkmango.com/  <p />
@@ -33,6 +35,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **MedCrypt** -- Encryption security for medical devices.  https://www.medcrypt.co/  <p />
 • **Middesk** -- Onboard clients faster by streamlining middle office processes. https://www.middesk.com/  <p />
 • **NAD Grid** -- P2P electricity exchange market. https://nadgrid.com/ <p />
+• **Nowports** -- Freight Forwarder shipping ocean containers to and from Latin America. https://nowports.com/ <p />
 • **Our World in Data** -- Non-profit focusing on global data synthesis and dissemination. https://ourworldindata.org/ <p />
 • **Pachama** -- Marketplace for Forest Carbon Credits. https://www.pachama.com/ <p />
 • **Pengram** -- Make and share AR instructions with your phone. http://www.pengramar.com/ <p />
