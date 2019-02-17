@@ -35,6 +35,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Manycore.io** -- Speed up computer programs by spreading them across cores. https://www.manycore.io/  <p />
 • **MedCrypt** -- Encryption security for medical devices.  https://www.medcrypt.co/  <p />
 • **Middesk** -- Onboard clients faster by streamlining middle office processes. https://www.middesk.com/  <p />
+• **Modern Labor** -- Pay students to learn to code. https://modernlabor.com/  <p />
 • **NAD Grid** -- P2P electricity exchange market. https://nadgrid.com/ <p />
 • **Nowports** -- Freight Forwarder shipping ocean containers to and from Latin America. https://nowports.com/ <p />
 • **Our World in Data** -- Non-profit focusing on global data synthesis and dissemination. https://ourworldindata.org/ <p />
