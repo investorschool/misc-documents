@@ -32,6 +32,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Hatch** -- Helps companies continue conversations with 'cancelled' customers. https://usehatchapp.com/  <p />
 • **Inkmango** -- South Asia subscription newsletter. https://www.inkmango.com/  <p />
 • **Keeper Tax** -- Personal bookkeeper for 1099 self-employed workers. https://keepertax.com/  <p />
+• **Lezzoo** -- On-demand delivery service in Iraq. http://www.lezzoo.com/  <p />
 • **Maitian.ai** -- Inexpensive, flexible vending machine powered computer vision.  https://www.maitian.ai  <p />
 • **Manycore.io** -- Speed up computer programs by spreading them across cores. https://www.manycore.io/  <p />
 • **MedCrypt** -- Encryption security for medical devices.  https://www.medcrypt.co/  <p />
