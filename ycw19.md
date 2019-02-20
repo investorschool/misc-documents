@@ -12,6 +12,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Brain Key** -- Neuroscience with AI. https://www.brainkey.ai/ <p />
 • **Brew** -- Tipping platform for supporting content creators. https://brew.com/ <p />
 • **Catch** -- Consolidated insurance, savings, and benefits platform. https://www.catch.co/ <p />
+• **Centaur Labs** -- Crowdsourced medical decision making. https://centaurlabs.io/  <p />
 • **Chaser** --  SaaS for sale to remember user-specific winning action plans. https://www.usechaser.com/  <p />
 • **Cherry** -- https://www.startcherry.com/ <p />
 • **Career Karma** -- Career guidance for coding bootcamp selection. https://careerkarma.io/  <p />
@@ -39,6 +40,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **MedCrypt** -- Encryption security for medical devices.  https://www.medcrypt.co/  <p />
 • **Middesk** -- Onboard clients faster by streamlining middle office processes. https://www.middesk.com/  <p />
 • **Modern Labor** -- Pay students to learn to code. https://modernlabor.com/  <p />
+• **Nabis** -- Ships cannabis products for brands to retailers. https://www.getnabis.com/  <p />
 • **NAD Grid** -- P2P electricity exchange market. https://nadgrid.com/ <p />
 • **Nowports** -- Freight Forwarder shipping ocean containers to and from Latin America. https://nowports.com/ <p />
 • **Our World in Data** -- Non-profit focusing on global data synthesis and dissemination. https://ourworldindata.org/ <p />
