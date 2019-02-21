@@ -53,7 +53,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Skill Lync** -- Online educational platform for engineering. https://courses.skill-lync.com/  <p />
 • **Socrates Intelligence** <p />
 • **Superb AI** -- Training Data as a Service--data collection and labeling--for image, video and text data. http://www.superb-ai.com/  <p />
-• **Supernova** -- Automates the development of mobile apps. http://www.supernova.studio  <p />
+• **Supernova** -- Automates the development of mobile apps. https://supernova.io/  <p />
 • **Taali** -- Water lily snacks. https://www.taalifoods.com/  <p />
 • **TailorED** -- Helps K-12 teachers find effective educational content for each student. https://www.tailor-ed.com/  <p />
 • **Thrive Agric** -- Connects Farmers in emerging markets, esp Nigeria, to Finance, Agronomic Practices& Market. https://www.thriveagric.com/  <p />
