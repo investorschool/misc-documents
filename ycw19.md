@@ -44,8 +44,10 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **NAD Grid** -- P2P electricity exchange market. https://nadgrid.com/ <p />
 • **Nowports** -- Freight Forwarder shipping ocean containers to and from Latin America. https://nowports.com/ <p />
 • **Our World in Data** -- Non-profit focusing on global data synthesis and dissemination. https://ourworldindata.org/ <p />
+• **Overview** -- Computer vision platform for manufacturing. https://www.overview.ai/  <p />
 • **Pachama** -- Marketplace for Forest Carbon Credits. https://www.pachama.com/ <p />
 • **Pengram** -- Make and share AR instructions with your phone. http://www.pengramar.com/ <p />
+• **Point** -- A debit card with points, high interest savings, and no fees. https://trypointcard.com/  <p />
 • **Postscript** -- MailChimp for SMS. https://www.postscript.io/  <p />
 • **PreFlight** -- Code-Free Automated UI Testing. https://preflighthq.com/  <p />
 • **RCT Studio** -- Creative film studio. https://rct-studio.com/  <p />
