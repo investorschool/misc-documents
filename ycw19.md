@@ -28,7 +28,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Elpha** -- Women in tech community. https://elpha.com/  <p />
 • **Flockjay** -- A $0-upfront online sales academy. https://flockjay.com/  <p />
 • **Foodie** -- Food review app for individual restaurant dishes. https://www.thefoodieapp.com/  <p />
-• **Glide** -- Apps without code. https://www.glideapps.com/  <p />
+• **Glide** -- Apps without code, using a Google Sheet. https://www.glideapps.com/  <p />
 • **GoLinks** -- Short web-like links for intranet use. https://www.golinks.io/  <p />
 • **Gordian Software** -- API for travel booking sites to sell airline seats & bags. https://www.gordiansoftware.com/  <p />
 • **Hatch** -- Helps companies continue conversations with 'cancelled' customers. https://usehatchapp.com/  <p />
