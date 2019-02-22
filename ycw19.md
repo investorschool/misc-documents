@@ -41,6 +41,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **MedCrypt** -- Encryption security for medical devices.  https://www.medcrypt.co/  <p />
 • **Middesk** -- Onboard clients faster by streamlining middle office processes. https://www.middesk.com/  <p />
 • **Modern Labor** -- Pay students to learn to code. https://modernlabor.com/  <p />
+• **Mudrex** -- Automated crypto trading. https://mudrex.com/login  <p />
 • **Nabis** -- Ships cannabis products for brands to retailers. https://www.getnabis.com/  <p />
 • **NAD Grid** -- P2P electricity exchange market. https://nadgrid.com/ <p />
 • **Nowports** -- Freight Forwarder shipping ocean containers to and from Latin America. https://nowports.com/ <p />
