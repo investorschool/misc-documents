@@ -55,6 +55,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Shef** -- Marketplace for amateur-cooked Indian meals. https://ordershef.com/  <p />
 • **Skill Lync** -- Online educational platform for engineering. https://courses.skill-lync.com/  <p />
 • **Socrates Intelligence** <p />
+• **Sunsama** -- Task planner calendar. https://sunsama.com/  <p />
 • **Superb AI** -- Training Data as a Service--data collection and labeling--for image, video and text data. http://www.superb-ai.com/  <p />
 • **Supernova** -- Automates the development of mobile apps. https://supernova.io/  <p />
 • **Taali** -- Water lily snacks. https://www.taalifoods.com/  <p />
