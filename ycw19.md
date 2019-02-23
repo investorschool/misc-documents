@@ -13,8 +13,8 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Brew** -- Tipping platform for supporting content creators. https://brew.com/ <p />
 • **Catch** -- Consolidated insurance, savings, and benefits platform. https://www.catch.co/ <p />
 • **Centaur Labs** -- Crowdsourced medical decision making. https://centaurlabs.io/  <p />
-• **Chaser** --  SaaS for sale to remember user-specific winning action plans. https://www.usechaser.com/  <p />
-• **Cherry** -- https://www.startcherry.com/ <p />
+• **Chaser** -- SaaS for sale to remember user-specific winning action plans. https://www.usechaser.com/  <p />
+• **Cherry** -- Program to let employees choose workplace perks.  https://www.startcherry.com/ <p />
 • **Career Karma** -- Career guidance for coding bootcamp selection. https://careerkarma.io/  <p />
 • **Cosmic JS** -- CMS hosting and maintenance. https://cosmicjs.com/ <p />
 • **Coursedog** -- SaaS for university class scheduling. https://www.coursedog.com/  <p />
