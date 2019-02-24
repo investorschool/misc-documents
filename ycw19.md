@@ -45,7 +45,8 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Mudrex** -- Automated crypto trading. https://mudrex.com/login  <p />
 • **Nabis** -- Ships cannabis products for brands to retailers. https://www.getnabis.com/  <p />
 • **NAD Grid** -- P2P electricity exchange market. https://nadgrid.com/ <p />
-• **Nowports** -- Freight Forwarder shipping ocean containers to and from Latin America. https://nowports.com/ <p />
+• **Nettrons** -- P2P electricity exchange market. https://nadgrid.com/ <p />
+• **Nowports** -- Automated candidates sourcing for recruiters. https://nettrons.com/  <p />
 • **Our World in Data** -- Non-profit focusing on global data synthesis and dissemination. https://ourworldindata.org/ <p />
 • **Overview** -- Computer vision platform for manufacturing. https://www.overview.ai/  <p />
 • **Pachama** -- Marketplace for Forest Carbon Credits. https://www.pachama.com/ <p />
