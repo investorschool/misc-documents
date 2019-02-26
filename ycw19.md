@@ -16,6 +16,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Chaser** -- SaaS for sale to remember user-specific winning action plans. https://www.usechaser.com/  <p />
 • **Cherry** -- Program to let employees choose workplace perks.  https://www.startcherry.com/ <p />
 • **Career Karma** -- Career guidance for coding bootcamp selection. https://careerkarma.io/  <p />
+• **CareerTu** -- Job training and recruiting platform. https://careertu.com/  <p />
 • **Cosmic JS** -- CMS hosting and maintenance. https://cosmicjs.com/ <p />
 • **Coursedog** -- SaaS for university class scheduling. https://www.coursedog.com/  <p />
 • **CredPal** -- Consumer credit company that provides point of sale financing in Africa. https://credpal.com/  <p />
