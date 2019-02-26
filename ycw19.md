@@ -51,6 +51,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Our World in Data** -- Non-profit focusing on global data synthesis and dissemination. https://ourworldindata.org/ <p />
 • **Overview** -- Computer vision platform for manufacturing. https://www.overview.ai/  <p />
 • **Pachama** -- Marketplace for Forest Carbon Credits. https://www.pachama.com/ <p />
+• **PadPiper** -- Helps young professionals find monthly housing and compatible housemates. https://www.padpiper.com/  <p />
 • **Pengram** -- Make and share AR instructions with your phone. http://www.pengramar.com/ <p />
 • **Point** -- A debit card with points, high interest savings, and no fees. https://trypointcard.com/  <p />
 • **Postscript** -- MailChimp for SMS. https://www.postscript.io/  <p />
@@ -66,7 +67,9 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Taali** -- Water lily snacks. https://www.taalifoods.com/  <p />
 • **TailorED** -- Helps K-12 teachers find effective educational content for each student. https://www.tailor-ed.com/  <p />
 • **Thrive Agric** -- Connects Farmers in emerging markets, esp Nigeria, to Finance, Agronomic Practices& Market. https://www.thriveagric.com/  <p />
+• **Traverse** -- Software to find profitable locations for renewable energy power plants. https://traverse.ai/  <p />
 • **Trexo Robotics** -- Robotic walker for disabled children. https://trexorobotics.com/  <p />
 • **Undertime** -- Conference room scheduler and organizer. https://undertime.co/ <p />
 • **Upsolve** -- Non-profit to help navigate personal bankruptcy. https://upsolve.org/ <p />
 • **VanGo** -- Rides for pre-teens and teens with drivers you can trust. https://www.ridevango.com/ <p />
+• **Withfriends** -- Runs membership programs for event organizers and music venues. https://withfriends.co/  <p />
