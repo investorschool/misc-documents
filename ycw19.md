@@ -56,6 +56,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Postscript** -- MailChimp for SMS. https://www.postscript.io/  <p />
 • **PreFlight** -- Code-Free Automated UI Testing. https://preflighthq.com/  <p />
 • **RCT Studio** -- Creative film studio. https://rct-studio.com/  <p />
+• **Scoot** -- Meet people at home-hosted events in India. https://www.myscoot.in/  <p />
 • **Shef** -- Marketplace for amateur-cooked Indian meals. https://ordershef.com/  <p />
 • **Skill Lync** -- Online educational platform for engineering. https://courses.skill-lync.com/  <p />
 • **Socrates Intelligence** <p />
