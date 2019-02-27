@@ -9,6 +9,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Balto** -- Organize and bet on fantasy sports games. https://playbalto.com/  <p />
 • **BlitzIQ** -- Sales insight web platform for sales representatives and managers.  <p />
 • **Board** -- Facilitating all-cash offers on homes. https://www.board.live/ <p />
+• **Boundary Layer** -- Hydrofoil cargo ships. http://boundarylayer.tech/  <p />
 • **Brain Key** -- Neuroscience with AI. https://www.brainkey.ai/ <p />
 • **Brew** -- Tipping platform for supporting content creators. https://brew.com/ <p />
 • **Catch** -- Consolidated insurance, savings, and benefits platform. https://www.catch.co/ <p />
