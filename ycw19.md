@@ -4,6 +4,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Allpro Technologies** -- Financing platform for education in Africa. https://allprotech.co/  <p />
 • **Allure Systems** -- Automates the production of fashion product images. http://www.alluresystems.com/  <p />
 • **Aura Vision** -- Google Analytics for physical stores. https://auravision.ai/  <p />
+• **Aurora Quantum** -- Building scalable quantum computer. https://qspicelabs.com/  <p />
 • **Avo** -- Analytics for cross-platform consumer products. https://www.avo.app/  <p />
 • **Bagel** -- Software for direct primary care (DPC) physicians. https://bagel.md/  <p />
 • **Balto** -- Organize and bet on fantasy sports games. https://playbalto.com/  <p />
