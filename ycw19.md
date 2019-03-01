@@ -9,6 +9,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Bagel** -- Software for direct primary care (DPC) physicians. https://bagel.md/  <p />
 • **Balto** -- Organize and bet on fantasy sports games. https://playbalto.com/  <p />
 • **BlitzIQ** -- Sales insight web platform for sales representatives and managers.  <p />
+• **Blueberry Medical** -- On-demand video and text pediatric care. https://blueberrypediatrics.com/  <p />
 • **Board** -- Facilitating all-cash offers on homes. https://www.board.live/ <p />
 • **Boundary Layer** -- Hydrofoil cargo ships. http://boundarylayer.tech/  <p />
 • **Brain Key** -- Neuroscience with AI. https://www.brainkey.ai/ <p />
@@ -60,7 +61,9 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Postscript** -- MailChimp for SMS. https://www.postscript.io/  <p />
 • **PreFlight** -- Code-Free Automated UI Testing. https://preflighthq.com/  <p />
 • **RCT Studio** -- Creative film studio. https://rct-studio.com/  <p />
+• **Releaf** -- Tech-enabled processor of crude vegetable oil in Nigeria. https://www.releaf.ng  <p />
 • **Scoot** -- Meet people at home-hosted events in India. https://www.myscoot.in/  <p />
+• **Searchlight** -- Job recruiting site emphasizing prior employment references. https://www.searchlight.ai/  <p />
 • **Shef** -- Marketplace for amateur-cooked Indian meals. https://ordershef.com/  <p />
 • **Skill Lync** -- Online educational platform for engineering. https://courses.skill-lync.com/  <p />
 • **Socrates Intelligence** <p />
