@@ -20,6 +20,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Cherry** -- Program to let employees choose workplace perks.  https://www.startcherry.com/ <p />
 • **Career Karma** -- Career guidance for coding bootcamp selection. https://careerkarma.io/  <p />
 • **CareerTu** -- Job training and recruiting platform. https://careertu.com/  <p />
+• **Convictional** -- B2B commerce platform for suppliers. https://www.convictional.com/  <p />
 • **Cosmic JS** -- CMS hosting and maintenance. https://cosmicjs.com/ <p />
 • **Coursedog** -- SaaS for university class scheduling. https://www.coursedog.com/  <p />
 • **CredPal** -- Consumer credit company that provides point of sale financing in Africa. https://credpal.com/  <p />
@@ -62,8 +63,10 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **PreFlight** -- Code-Free Automated UI Testing. https://preflighthq.com/  <p />
 • **RCT Studio** -- Creative film studio. https://rct-studio.com/  <p />
 • **Releaf** -- Tech-enabled processor of crude vegetable oil in Nigeria. https://www.releaf.ng  <p />
+• **Saratoga Energy** -- Carbon nanotubes manufacturer. http://www.saratoga-energy.com/  <p />
 • **Scoot** -- Meet people at home-hosted events in India. https://www.myscoot.in/  <p />
 • **Searchlight** -- Job recruiting site emphasizing prior employment references. https://www.searchlight.ai/  <p />
+• **Seawise Capital** -- Trade finance platform for exporters in emerging markets. https://www.seawisecapital.com/  <p />
 • **Shef** -- Marketplace for amateur-cooked Indian meals. https://ordershef.com/  <p />
 • **Skill Lync** -- Online educational platform for engineering. https://courses.skill-lync.com/  <p />
 • **Socrates Intelligence** <p />
