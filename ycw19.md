@@ -86,3 +86,4 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Upsolve** -- Non-profit to help navigate personal bankruptcy. https://upsolve.org/ <p />
 • **VanGo** -- Rides for pre-teens and teens with drivers you can trust. https://www.ridevango.com/ <p />
 • **Withfriends** -- Runs membership programs for event organizers and music venues. https://withfriends.co/  <p />
+• **WorkClout** -- Factory operations software: floor reporting, job scheduling, ordering. https://www.workclout.com/  <p />
