@@ -15,6 +15,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Boundary Layer** -- Hydrofoil cargo ships. http://boundarylayer.tech/  <p />
 • **Brain Key** -- Neuroscience with AI. https://www.brainkey.ai/ <p />
 • **Brew** -- Tipping platform for supporting content creators. https://brew.com/ <p />
+• **CaseGuide** -- Court records processing to assist attorneys in case preparation. https://www.caseguide.org/  <p />
 • **Catch** -- Consolidated insurance, savings, and benefits platform. https://www.catch.co/ <p />
 • **Centaur Labs** -- Crowdsourced medical decision making. https://centaurlabs.io/  <p />
 • **Chaser** -- SaaS for sale to remember user-specific winning action plans. https://www.usechaser.com/  <p />
