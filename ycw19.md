@@ -22,8 +22,8 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Cherry** -- Program to let employees choose workplace perks.  https://www.startcherry.com/ <p />
 • **Career Karma** -- Career guidance for coding bootcamp selection. https://careerkarma.io/  <p />
 • **CareerTu** -- Job training and recruiting platform. https://careertu.com/  <p />
-• **Cluttr** --   <p />
-• **Convex** --   <p />
+• **Cluttr** -- Virtual payment card numbers that can be split among multiple parties. https://www.cluttrcard.com/  <p />
+• **Convex** -- Prospect and lead research for mechanical contractors. https://www.convexbuilt.com/  <p />
 • **Convictional** -- B2B commerce platform for suppliers. https://www.convictional.com/  <p />
 • **Cosmic JS** -- CMS hosting and maintenance. https://cosmicjs.com/ <p />
 • **Coursedog** -- SaaS for university class scheduling. https://www.coursedog.com/  <p />
