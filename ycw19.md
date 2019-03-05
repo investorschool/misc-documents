@@ -9,7 +9,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Avo** -- Analytics for cross-platform consumer products. https://www.avo.app/  <p />
 • **Bagel** -- Software for direct primary care (DPC) physicians. https://bagel.md/  <p />
 • **Balto** -- Organize and bet on fantasy sports games. https://playbalto.com/  <p />
-• **Bento Club** -- Hub-based delivery network for perishables. https://www.bentoclubsf.com/  <p />
+• **Bento Club** -- Hub-based delivery network for prepared food. https://www.bentoclubsf.com/  <p />
 • **BlitzIQ** -- Sales insight web platform for sales representatives and managers.  <p />
 • **Blueberry Medical** -- On-demand video and text pediatric care. https://blueberrypediatrics.com/  <p />
 • **Board** -- Facilitating all-cash offers on homes. https://www.board.live/ <p />
