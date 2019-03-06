@@ -1,5 +1,6 @@
 Unofficial list of YC W19 batch startups (updated as they make themselves publicly known). If you do a pull request, please put a link in the commit note that shows the startup/YC W19 connection. 
 
+• **AccioJob** -- College job board in India. https://www.acciojob.com/  <p />
 • **AI Insurance** -- Medical malpractice claim cost predictions for insurance companies. https://www.aiinsurance.io/  <p />
 • **Allo** -- Community app to facilitate errands and favors. https://www.allocommunity.com/ <p />
 • **Allpro Technologies** -- Financing platform for education in Africa. https://allprotech.co/  <p />
@@ -16,13 +17,14 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Boundary Layer** -- Hydrofoil cargo ships. http://boundarylayer.tech/  <p />
 • **Brain Key** -- Neuroscience with AI. https://www.brainkey.ai/ <p />
 • **Brew** -- Tipping platform for supporting content creators. https://brew.com/ <p />
+• **Career Karma** -- Career guidance for coding bootcamp selection. https://careerkarma.io/  <p />
+• **CareerTu** -- Job training and recruiting platform. https://careertu.com/  <p />
 • **CaseGuide** -- Court records processing to assist attorneys in case preparation. https://www.caseguide.org/  <p />
 • **Catch** -- Consolidated insurance, savings, and benefits platform. https://www.catch.co/ <p />
 • **Centaur Labs** -- Crowdsourced medical decision making. https://centaurlabs.io/  <p />
 • **Chaser** -- SaaS for sale to remember user-specific winning action plans. https://www.usechaser.com/  <p />
 • **Cherry** -- Program to let employees choose workplace perks.  https://www.startcherry.com/ <p />
-• **Career Karma** -- Career guidance for coding bootcamp selection. https://careerkarma.io/  <p />
-• **CareerTu** -- Job training and recruiting platform. https://careertu.com/  <p />
+• **Cityfurnish** -- Furniture rental in India. https://cityfurnish.com/  <p />
 • **Cluttr** -- Virtual payment card numbers that can be split among multiple parties. https://www.cluttrcard.com/  <p />
 • **Convex** -- Prospect and lead research for mechanical contractors. https://www.convexbuilt.com/  <p />
 • **Convictional** -- B2B commerce platform for suppliers. https://www.convictional.com/  <p />
@@ -30,6 +32,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Coursedog** -- SaaS for university class scheduling. https://www.coursedog.com/  <p />
 • **CredPal** -- Consumer credit company that provides point of sale financing in Africa. https://credpal.com/  <p />
 • **DevFlight** -- Job placement for open source software maintainers. https://devflight.com/ <p />
+• **Dockup** -- On demand staging environments for dev teams. https://getdockup.com/  <p />
 • **Docucharm** -- Automate data extraction from documents. https://docucharm.com/  <p />
 • **Doorport** -- Smart door access. https://www.doorport.com/  <p />
 • **Dyneti** -- Validate credit card by taking a picture of it. https://dyneti.com/  <p />
