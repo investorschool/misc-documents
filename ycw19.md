@@ -46,9 +46,12 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Glide** -- Apps without code, using a Google Sheet. https://www.glideapps.com/  <p />
 • **GoLinks** -- Short web-like links for intranet use. https://www.golinks.io/  <p />
 • **Gordian Software** -- API for travel booking sites to sell airline seats & bags. https://www.gordiansoftware.com/  <p />
+• **Green Energy Exchange** -- Green energy utility options for consumers. https://getgex.com/  <p />
 • **Hatch** -- Helps companies continue conversations with 'cancelled' customers. https://usehatchapp.com/  <p />
 • **InsideSherpa** -- Company-backed virtual work experience training. https://www.insidesherpa.com/  <p />
+• **Jetpack Aviation** -- Flying personal aircraft, with motorcycle-like aesthetic. https://jetpackaviation.com/  <p />
 • **Juggernaut (Inkmango)** -- South Asia subscription newsletter. https://www.thejuggernaut.com/  <p />
+• **Kalshi** -- General betting platform. https://www.kalshi.com/  <p />
 • **Keeper Tax** -- Personal bookkeeper for 1099 self-employed workers. https://keepertax.com/  <p />
 • **Latchel** -- Emergency maintenance department for property managers. https://latchel.com/  <p />
 • **Lezzoo** -- On-demand delivery service in Iraq. http://www.lezzoo.com/  <p />
