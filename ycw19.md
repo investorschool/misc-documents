@@ -8,6 +8,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Aura Vision** -- Google Analytics for physical stores. https://auravision.ai/  <p />
 • **Aurora Quantum** -- Building scalable quantum computer. https://qspicelabs.com/  <p />
 • **Avo** -- Analytics for cross-platform consumer products. https://www.avo.app/  <p />
+• **AxDraft** -- Automated drafting of legal documents. https://axdraft.com/en/home  <p />
 • **Bagel** -- Software for direct primary care (DPC) physicians. https://bagel.md/  <p />
 • **Balto** -- Organize and bet on fantasy sports games. https://playbalto.com/  <p />
 • **Bento Club** -- Hub-based delivery network for prepared food. https://www.bentoclubsf.com/  <p />
