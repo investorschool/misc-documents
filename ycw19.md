@@ -1,5 +1,6 @@
 Unofficial list of YC W19 batch startups (updated as they make themselves publicly known). If you do a pull request, please put a link in the commit note that shows the startup/YC W19 connection. 
 
+• **54Gene** -- Consumer genetics platform providing health and ancestry reports for Africa. https://www.54gene.com/  <p />
 • **AccioJob** -- College job board in India. https://www.acciojob.com/  <p />
 • **AI Insurance** -- Medical malpractice claim cost predictions for insurance companies. https://www.aiinsurance.io/  <p />
 • **Allo** -- Community app to facilitate errands and favors. https://www.allocommunity.com/ <p />
