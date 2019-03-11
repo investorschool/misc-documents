@@ -16,6 +16,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **BlitzIQ** -- Sales insight web platform for sales representatives and managers.  <p />
 • **Blueberry Medical** -- On-demand video and text pediatric care. https://blueberrypediatrics.com/  <p />
 • **Board** -- Facilitating all-cash offers on homes. https://www.board.live/ <p />
+• **Bottomless** -- Automatic coffee restocking with a home smart scale. https://www.bottomless.com/   <p />
 • **Boundary Layer** -- Hydrofoil cargo ships. http://boundarylayer.tech/  <p />
 • **Brain Key** -- Neuroscience with AI. https://www.brainkey.ai/ <p />
 • **Brew** -- Tipping platform for supporting content creators. https://brew.com/ <p />
