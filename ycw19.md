@@ -16,6 +16,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **BlitzIQ** -- Sales insight web platform for sales representatives and managers.  <p />
 • **Blueberry Medical** -- On-demand video and text pediatric care. https://blueberrypediatrics.com/  <p />
 • **Board** -- Facilitating all-cash offers on homes. https://www.board.live/ <p />
+• **Bot Orange** -- Acquire, engage, and retain customers via WeChat. https://www.botorange.com/  <p />
 • **Bottomless** -- Automatic coffee restocking with a home smart scale. https://www.bottomless.com/   <p />
 • **Boundary Layer** -- Hydrofoil cargo ships. http://boundarylayer.tech/  <p />
 • **Brain Key** -- Neuroscience with AI. https://www.brainkey.ai/ <p />
@@ -28,7 +29,6 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Chaser** -- SaaS for sale to remember user-specific winning action plans. https://www.usechaser.com/  <p />
 • **Cherry** -- Program to let employees choose workplace perks.  https://www.startcherry.com/ <p />
 • **Cityfurnish** -- Furniture rental in India. https://cityfurnish.com/  <p />
-• **Cluttr** -- Virtual payment card numbers that can be split among multiple parties. https://www.cluttrcard.com/  <p />
 • **Convex** -- Prospect and lead research for mechanical contractors. https://www.convexbuilt.com/  <p />
 • **Convictional** -- B2B commerce platform for suppliers. https://www.convictional.com/  <p />
 • **Cosmic JS** -- CMS hosting and maintenance. https://cosmicjs.com/ <p />
@@ -52,6 +52,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Green Energy Exchange** -- Green energy utility options for consumers. https://getgex.com/  <p />
 • **Hatch** -- Helps companies continue conversations with 'cancelled' customers. https://usehatchapp.com/  <p />
 • **Heart Aerospace** -- Electric regional airliners. https://heartaerospace.com/  <p />
+• **Inito** -- Ovulation Test for couples trying to conceive. https://www.inito.com   <p />
 • **InsideSherpa** -- Company-backed virtual work experience training. https://www.insidesherpa.com/  <p />
 • **Jetpack Aviation** -- Flying personal aircraft, with motorcycle-like aesthetic. https://jetpackaviation.com/  <p />
 • **Juggernaut (Inkmango)** -- South Asia subscription newsletter. https://www.thejuggernaut.com/  <p />
@@ -101,3 +102,4 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **WeatherCheck** -- Monitoring properties for hail damage. https://weathercheck.co <p />
 • **Withfriends** -- Runs membership programs for event organizers and music venues. https://withfriends.co/  <p />
 • **WorkClout** -- Factory operations software: floor reporting, job scheduling, ordering. https://www.workclout.com/  <p />
+• **YSplit** -- Virtual payment card numbers that can be split among multiple parties. https://www.ysplit.com/  <p />
