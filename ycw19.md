@@ -45,11 +45,13 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Flockjay** -- A $0-upfront online sales academy. https://flockjay.com/  <p />
 • **Foodie** -- Food review app for individual restaurant dishes. https://www.thefoodieapp.com/  <p />
 • **Fuzzbuzz** -- Software testing for massively deployed code; i.e., automated fuzzing. https://fuzzbuzz.io/  <p />
+• **GeoSite** -- Enterprise SaaS for spatial data. https://www.geosite.io/  <p />
 • **Glide** -- Apps without code, using a Google Sheet. https://www.glideapps.com/  <p />
 • **GoLinks** -- Short web-like links for intranet use. https://www.golinks.io/  <p />
 • **Gordian Software** -- API for travel booking sites to sell airline seats & bags. https://www.gordiansoftware.com/  <p />
 • **Green Energy Exchange** -- Green energy utility options for consumers. https://getgex.com/  <p />
 • **Hatch** -- Helps companies continue conversations with 'cancelled' customers. https://usehatchapp.com/  <p />
+• **Heart Aerospace** -- Electric regional airliners. https://heartaerospace.com/  <p />
 • **InsideSherpa** -- Company-backed virtual work experience training. https://www.insidesherpa.com/  <p />
 • **Jetpack Aviation** -- Flying personal aircraft, with motorcycle-like aesthetic. https://jetpackaviation.com/  <p />
 • **Juggernaut (Inkmango)** -- South Asia subscription newsletter. https://www.thejuggernaut.com/  <p />
@@ -96,5 +98,6 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Undertime** -- Conference room scheduler and organizer. https://undertime.co/ <p />
 • **Upsolve** -- Non-profit to help navigate personal bankruptcy. https://upsolve.org/ <p />
 • **VanGo** -- Rides for pre-teens and teens with drivers you can trust. https://www.ridevango.com/ <p />
+• **WeatherCheck** -- Monitoring properties for hail damage. https://weathercheck.co <p />
 • **Withfriends** -- Runs membership programs for event organizers and music venues. https://withfriends.co/  <p />
 • **WorkClout** -- Factory operations software: floor reporting, job scheduling, ordering. https://www.workclout.com/  <p />
