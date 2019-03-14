@@ -1,16 +1,17 @@
 Unofficial list of YC W19 batch startups (updated as they make themselves publicly known). If you do a pull request, please put a link in the commit note that shows the startup/YC W19 connection. 
 
-• **54Gene** -- Consumer genetics platform providing health and ancestry reports for Africa. https://www.54gene.com/  <p />
 • **AccioJob** -- College job board in India. https://www.acciojob.com/  <p />
 • **AI Insurance** -- Medical malpractice claim cost predictions for insurance companies. https://www.aiinsurance.io/  <p />
 • **Allo** -- Community app to facilitate errands and favors. https://www.allocommunity.com/ <p />
 • **Allpro Technologies** -- Financing platform for education in Africa. https://allprotech.co/  <p />
 • **Allure Systems** -- Automates the production of fashion product images. http://www.alluresystems.com/  <p />
+• **AmpUp** -- Reservable electric vehicle charging network out of shared private chargers. http://ampup.io/  <p />
 • **Aura Vision** -- Google Analytics for physical stores. https://auravision.ai/  <p />
 • **Aurora Quantum** -- Building scalable quantum computer. https://qspicelabs.com/  <p />
-• **Avo** -- Analytics for cross-platform consumer products. https://www.avo.app/  <p />
+• **Avo** -- Analytics data error prevention; esp. cross-platform consumer product analytics. https://www.avo.app/  <p />
 • **AxDraft** -- Automated drafting of legal documents. https://axdraft.com/en/home  <p />
 • **Bagel** -- Software for direct primary care (DPC) physicians. https://bagel.md/  <p />
+• **Bensen** -- Software to allow restaurants to take orders via computerized voice assistant. https://bensen.ai/  <p />
 • **Balto** -- Organize and bet on fantasy sports games. https://playbalto.com/  <p />
 • **Bento Club** -- Hub-based delivery network for prepared food. https://www.bentoclubsf.com/  <p />
 • **BlitzIQ** -- Sales insight web platform for sales representatives and managers.  <p />
@@ -54,12 +55,14 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Heart Aerospace** -- Electric regional airliners. https://heartaerospace.com/  <p />
 • **Inito** -- Ovulation Test for couples trying to conceive. https://www.inito.com   <p />
 • **InsideSherpa** -- Company-backed virtual work experience training. https://www.insidesherpa.com/  <p />
-• **Jetpack Aviation** -- Flying personal aircraft, with motorcycle-like aesthetic. https://jetpackaviation.com/  <p />
+• **Kalshi** -- General betting platform. https://www.kalshi.com/  <p />
+• **Jet.law** -- Flat-fee, full-service employment law firm that predicts litigation workload. https://www.jet.law/  <p />
 • **Juggernaut (Inkmango)** -- South Asia subscription newsletter. https://www.thejuggernaut.com/  <p />
 • **Kalshi** -- General betting platform. https://www.kalshi.com/  <p />
 • **Keeper Tax** -- Personal bookkeeper for 1099 self-employed workers. https://keepertax.com/  <p />
 • **Latchel** -- Emergency maintenance department for property managers. https://latchel.com/  <p />
 • **Lezzoo** -- On-demand delivery service in Iraq. http://www.lezzoo.com/  <p />
+• **Lumos** -- Medical information lookup at point-of-care for doctors. https://www.lumosmd.com/  <p />
 • **Maitian.ai** -- Inexpensive, flexible vending machine powered computer vision.  https://www.maitian.ai  <p />
 • **Manycore.io** -- Speed up computer programs by spreading them across cores. https://www.manycore.io/  <p />
 • **MedCrypt** -- Encryption security for medical devices.  https://www.medcrypt.co/  <p />
@@ -79,6 +82,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Postscript** -- MailChimp for SMS. https://www.postscript.io/  <p />
 • **PreFlight** -- Code-Free Automated UI Testing. https://preflighthq.com/  <p />
 • **Prometheus** -- Taking CO2 from the air plus hydrogen to make gasoline. https://www.prometheusfuels.com/  <p />
+• **Pyxai** -- HR software to screen applicants without relying on resumes. http://pyxai.com/  <p />
 • **RCT Studio** -- Creative film studio. https://rct-studio.com/  <p />
 • **Releaf** -- Tech-enabled processor of crude vegetable oil in Nigeria. https://www.releaf.ng  <p />
 • **Saratoga Energy** -- Carbon nanotubes manufacturer. http://www.saratoga-energy.com/  <p />
@@ -88,12 +92,14 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Shef** -- Marketplace for amateur-cooked Indian meals. https://ordershef.com/  <p />
 • **Skill Lync** -- Online educational platform for engineering. https://courses.skill-lync.com/  <p />
 • **Socrates Intelligence** <p />
+• **Stack Diagnostics** -- Consumer genetics platform providing health and ancestry reports for Africa. http://www.stackdiagnostics.com/  <p />
 • **Sunsama** -- Task planner calendar. https://sunsama.com/  <p />
 • **Superb AI** -- Training Data as a Service--data collection and labeling--for image, video and text data. http://www.superb-ai.com/  <p />
 • **Supernova** -- Automates the development of mobile apps. https://supernova.io/  <p />
 • **Taali** -- Water lily snacks. https://www.taalifoods.com/  <p />
 • **TailorED** -- Helps K-12 teachers find effective educational content for each student. https://www.tailor-ed.com/  <p />
 • **Thrive Agric** -- Connects Farmers in emerging markets, esp Nigeria, to Finance, Agronomic Practices& Market. https://www.thriveagric.com/  <p />
+• **Travelchime** -- Shared group document for travel planning. https://travelchime.com/  <p />
 • **Traverse** -- Software to find profitable locations for renewable energy power plants. https://traverse.ai/  <p />
 • **Trexo Robotics** -- Robotic walker for disabled children. https://trexorobotics.com/  <p />
 • **Undertime** -- Conference room scheduler and organizer. https://undertime.co/ <p />
