@@ -14,7 +14,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Bensen** -- Software to allow restaurants to take orders via computerized voice assistant. https://bensen.ai/  <p />
 • **Balto** -- Organize and bet on fantasy sports games. https://playbalto.com/  <p />
 • **Bento Club** -- Hub-based delivery network for prepared food. https://www.bentoclubsf.com/  <p />
-• **BlitzIQ** -- Sales insight web platform for sales representatives and managers.  <p />
+• **BlitzIQ** -- Sales insight web platform for sales representatives and managers. https://www.blitziq.com/  <p />
 • **Blueberry Medical** -- On-demand video and text pediatric care. https://blueberrypediatrics.com/  <p />
 • **Board** -- Facilitating all-cash offers on homes. https://www.board.live/ <p />
 • **Bot Orange** -- Acquire, engage, and retain customers via WeChat. https://www.botorange.com/  <p />
