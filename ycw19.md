@@ -37,6 +37,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Coursedog** -- SaaS for university class scheduling. https://www.coursedog.com/  <p />
 • **CredPal** -- Consumer credit company that provides point of sale financing in Africa. https://credpal.com/  <p />
 • **DevFlight** -- Job placement for open source software maintainers. https://devflight.com/ <p />
+• **Docbot** -- AI for colonoscopy and endoscopy. https://www.docbot.co/  <p />
 • **Dockup** -- On demand staging environments for dev teams. https://getdockup.com/  <p />
 • **Docucharm** -- Automate data extraction from documents. https://docucharm.com/  <p />
 • **Doorport** -- Smart door access. https://www.doorport.com/  <p />
@@ -71,7 +72,6 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Modern Labor** -- Pay students to learn to code. https://modernlabor.com/  <p />
 • **Mudrex** -- Automated crypto trading. https://mudrex.com/login  <p />
 • **Nabis** -- Ships cannabis products for brands to retailers. https://www.getnabis.com/  <p />
-• **NAD Grid** -- P2P electricity exchange market. https://nadgrid.com/ <p />
 • **Nettrons** -- Automated candidates sourcing for recruiters. https://nettrons.com/ <p />
 • **Nowports** -- Freight Forwarder shipping ocean containers to and from Latin America. https://nowports.com/  <p />
 • **Our World in Data** -- Non-profit focusing on global data synthesis and dissemination. https://ourworldindata.org/ <p />
@@ -109,4 +109,5 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **WeatherCheck** -- Monitoring properties for hail damage. https://weathercheck.co <p />
 • **Withfriends** -- Runs membership programs for event organizers and music venues. https://withfriends.co/  <p />
 • **WorkClout** -- Factory operations software: floor reporting, job scheduling, ordering. https://www.workclout.com/  <p />
+• **YourChoice** -- Developing a topical spermacide, and eventually an associated oral unisex contraceptive. https://www.yourchoicetx.com/  <p />
 • **YSplit** -- Virtual payment card numbers that can be split among multiple parties. https://www.ysplit.com/  <p />
