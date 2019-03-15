@@ -109,5 +109,5 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **WeatherCheck** -- Monitoring properties for hail damage. https://weathercheck.co <p />
 • **Withfriends** -- Runs membership programs for event organizers and music venues. https://withfriends.co/  <p />
 • **WorkClout** -- Factory operations software: floor reporting, job scheduling, ordering. https://www.workclout.com/  <p />
-• **YourChoice** -- Developing a topical spermacide, and eventually an associated oral unisex contraceptive. https://www.yourchoicetx.com/  <p />
+• **YourChoice** -- Developing a non-hormonal spermacide; eventually a unisex oral contraceptive. https://www.yourchoicetx.com/  <p />
 • **YSplit** -- Virtual payment card numbers that can be split among multiple parties. https://www.ysplit.com/  <p />
