@@ -103,6 +103,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Seawise Capital** -- Trade finance platform for exporters in emerging markets. https://www.seawisecapital.com/  <p />
 • **Shef** -- Marketplace for amateur-cooked Indian meals. https://ordershef.com/  <p />
 • **Shiok Meats** -- Cell-based clean meat. 	https://shiokmeats.com/  <p />
+• **Shipper** -- Delivery network for Indonesia.	https://shipper.id/  <p />
 • **Skill Lync** -- Online educational platform for engineering. https://courses.skill-lync.com/  <p />
 • **Socrates Intelligence** <p />
 • **Spiral Genetics** -- Genomic data mining software.	http://www.spiralgenetics.com/  <p />
