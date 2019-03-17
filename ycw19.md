@@ -1,5 +1,7 @@
 Unofficial list of YC W19 batch startups (updated as they make themselves publicly known). If you do a pull request, please put a link in the commit note that shows the startup/YC W19 connection. 
 
+(17 March 2019 -- It is Demo Day eve! As such, I am too busy to maintain this list in real time. For more timely updates, see my notes template: https://alanglennon.com/2019/03/15/yc-w19-template/ )
+
 • **AccioJob** -- College job board in India. https://www.acciojob.com/  <p />
 • **Adventurous** -- Augmented reality scavenger hunt geared toward families. https://www.adventurous.co/  <p />
 • **AI Insurance** -- Medical malpractice claim cost predictions for insurance companies. https://www.aiinsurance.io/  <p />
