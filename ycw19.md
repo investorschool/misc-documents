@@ -1,11 +1,13 @@
 Unofficial list of YC W19 batch startups (updated as they make themselves publicly known). If you do a pull request, please put a link in the commit note that shows the startup/YC W19 connection. 
 
 • **AccioJob** -- College job board in India. https://www.acciojob.com/  <p />
+• **Adventurous** -- Augmented reality scavenger hunt geared toward families. https://www.adventurous.co/  <p />
 • **AI Insurance** -- Medical malpractice claim cost predictions for insurance companies. https://www.aiinsurance.io/  <p />
 • **Allo** -- Community app to facilitate errands and favors. https://www.allocommunity.com/ <p />
 • **Allpro Technologies** -- Financing platform for education in Africa. https://allprotech.co/  <p />
 • **Allure Systems** -- Automates the production of fashion product images. http://www.alluresystems.com/  <p />
 • **AmpUp** -- Reservable electric vehicle charging network out of shared private chargers. http://ampup.io/  <p />
+• **Atomic Alchemy** -- Nuclear medicine manufacturer for diagnostic imaging and cancer treatment. https://www.atomicalchemy.us/  <p />
 • **Aura Vision** -- Google Analytics for physical stores. https://auravision.ai/  <p />
 • **Aurora Quantum** -- Building scalable quantum computer. https://qspicelabs.com/  <p />
 • **Avo** -- Analytics data error prevention; esp. cross-platform consumer product analytics. https://www.avo.app/  <p />
@@ -35,7 +37,9 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Convictional** -- B2B commerce platform for suppliers. https://www.convictional.com/  <p />
 • **Cosmic JS** -- CMS hosting and maintenance. https://cosmicjs.com/ <p />
 • **Coursedog** -- SaaS for university class scheduling. https://www.coursedog.com/  <p />
+• **Couturme** -- Semi-personalized, CAD-designed women's formalwear. https://couturme.com/  <p />
 • **CredPal** -- Consumer credit company that provides point of sale financing in Africa. https://credpal.com/  <p />
+• **Cuanto** -- Payment processor for Latin America. https://www.cuantopago.com/  <p />
 • **DevFlight** -- Job placement for open source software maintainers. https://devflight.com/ <p />
 • **Docbot** -- AI for colonoscopy and endoscopy. https://www.docbot.co/  <p />
 • **Dockup** -- On demand staging environments for dev teams. https://getdockup.com/  <p />
@@ -45,6 +49,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **EatGeek** -- Catering marketplace. https://www.eatgeek.com/ <p />
 • **Edyst** -- Online learning for software developers. https://edyst.com/  <p />
 • **Elpha** -- Women in tech community. https://elpha.com/  <p />
+• **ExcepGen** -- Producing full-length human proteins for use in drug discovery. http://www.excepgen.com/  <p />
 • **Flockjay** -- A $0-upfront online sales academy. https://flockjay.com/  <p />
 • **Foodie** -- Food review app for individual restaurant dishes. https://www.thefoodieapp.com/  <p />
 • **Fuzzbuzz** -- Software testing for massively deployed code; i.e., automated fuzzing. https://fuzzbuzz.io/  <p />
