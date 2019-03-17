@@ -73,6 +73,7 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Maitian.ai** -- Inexpensive, flexible vending machine powered computer vision.  https://www.maitian.ai  <p />
 • **Manycore.io** -- Speed up computer programs by spreading them across cores. https://www.manycore.io/  <p />
 • **MedCrypt** -- Encryption security for medical devices.  https://www.medcrypt.co/  <p />
+• **Memfault** -- Catch and fix embedded software bugs.	https://memfault.com/  <p />
 • **Middesk** -- Onboard clients faster by streamlining middle office processes. https://www.middesk.com/  <p />
 • **Modern Labor** -- Pay students to learn to code. https://modernlabor.com/  <p />
 • **Mudrex** -- Automated crypto trading. https://mudrex.com/login  <p />
@@ -84,35 +85,47 @@ Unofficial list of YC W19 batch startups (updated as they make themselves public
 • **Pachama** -- Marketplace for Forest Carbon Credits. https://www.pachama.com/ <p />
 • **PadPiper** -- Helps young professionals find monthly housing and compatible housemates. https://www.padpiper.com/  <p />
 • **Pengram** -- Make and share AR instructions with your phone. http://www.pengramar.com/ <p />
+• **Pnoe** -- Breath device to measure cardiorespiratory fitness.	https://www.mypnoe.com/  <p />
 • **Point** -- A debit card with points, high interest savings, and no fees. https://trypointcard.com/  <p />
+• **Portal** -- Retrofit to make automatic doors smarter and more accessible.	https://www.portalentryways.com/home  <p />
 • **Postscript** -- MailChimp for SMS. https://www.postscript.io/  <p />
 • **PreFlight** -- Code-Free Automated UI Testing. https://preflighthq.com/  <p />
 • **Prometheus** -- Taking CO2 from the air plus hydrogen to make gasoline. https://www.prometheusfuels.com/  <p />
+• **Pronto** -- Ride-sharing for second-tier cities in Latin America.	http://www.tupronto.mx/  <p />
+• **Pulse Action Stations** -- Connected network of smart health kiosks in India.	http://www.getpulse.in/  <p />
 • **Pyxai** -- HR software to screen applicants without relying on resumes. http://pyxai.com/  <p />
 • **RCT Studio** -- Creative film studio. https://rct-studio.com/  <p />
 • **Releaf** -- Tech-enabled processor of crude vegetable oil in Nigeria. https://www.releaf.ng  <p />
+• **Rune** -- Teammate discovery for gamers over voicechat.	https://www.rune.ai/  <p />
 • **Saratoga Energy** -- Carbon nanotubes manufacturer. http://www.saratoga-energy.com/  <p />
 • **Scoot** -- Meet people at home-hosted events in India. https://www.myscoot.in/  <p />
 • **Searchlight** -- Job recruiting site emphasizing prior employment references. https://www.searchlight.ai/  <p />
 • **Seawise Capital** -- Trade finance platform for exporters in emerging markets. https://www.seawisecapital.com/  <p />
 • **Shef** -- Marketplace for amateur-cooked Indian meals. https://ordershef.com/  <p />
+• **Shiok Meats** -- Cell-based clean meat. 	https://shiokmeats.com/  <p />
 • **Skill Lync** -- Online educational platform for engineering. https://courses.skill-lync.com/  <p />
 • **Socrates Intelligence** <p />
+• **Spiral Genetics** -- Genomic data mining software.	http://www.spiralgenetics.com/  <p />
 • **Stack Diagnostics** -- Consumer genetics platform providing health and ancestry reports for Africa. http://www.stackdiagnostics.com/  <p />
 • **Sunsama** -- Task planner calendar. https://sunsama.com/  <p />
 • **Superb AI** -- Training Data as a Service--data collection and labeling--for image, video and text data. http://www.superb-ai.com/  <p />
 • **Supernova** -- Automates the development of mobile apps. https://supernova.io/  <p />
 • **Taali** -- Water lily snacks. https://www.taalifoods.com/  <p />
 • **TailorED** -- Helps K-12 teachers find effective educational content for each student. https://www.tailor-ed.com/  <p />
+• **Termius** -- SSH client for desktop and mobile, specializing in data sync.	https://termius.com/  <p />
 • **Thrive Agric** -- Connects Farmers in emerging markets, esp Nigeria, to Finance, Agronomic Practices& Market. https://www.thriveagric.com/  <p />
 • **Travelchime** -- Shared group document for travel planning. https://travelchime.com/  <p />
 • **Traverse** -- Software to find profitable locations for renewable energy power plants. https://traverse.ai/  <p />
+• **Trestle** -- Canonical corporate information intranet.	https://www.ontrestle.com/  <p />
 • **Trexo Robotics** -- Robotic walker for disabled children. https://trexorobotics.com/  <p />
+• **Truora** -- Online background checks for Latin America; Checkr for LatAm.	https://www.truora.com/  <p />
 • **Undertime** -- Conference room scheduler and organizer. https://undertime.co/ <p />
 • **Upsolve** -- Non-profit to help navigate personal bankruptcy. https://upsolve.org/ <p />
 • **VanGo** -- Rides for pre-teens and teens with drivers you can trust. https://www.ridevango.com/ <p />
+• **Verto** -- Foreign currency access and exchange for African businesses.	https://www.vertofx.com/  <p />
 • **WeatherCheck** -- Monitoring properties for hail damage. https://weathercheck.co <p />
 • **Withfriends** -- Runs membership programs for event organizers and music venues. https://withfriends.co/  <p />
 • **WorkClout** -- Factory operations software: floor reporting, job scheduling, ordering. https://www.workclout.com/  <p />
+• **XGenomes** -- Super cheap genome sequencing at scale.	http://www.xgenomes.com/  <p />
 • **YourChoice** -- Developing a non-hormonal spermacide; eventually a unisex oral contraceptive. https://www.yourchoicetx.com/  <p />
 • **YSplit** -- Virtual payment card numbers that can be split among multiple parties. https://www.ysplit.com/  <p />
