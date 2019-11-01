@@ -2,3 +2,4 @@ Unofficial list of YC W20 batch startups (updated as they make themselves public
 
 
 • **HelpNow** -- Medical ambulance service for India. http://www.gethelpnow.in/  <p />
+• **NexusBird** -- Long-distance car rides between cities. https://www.nexusbird.com/  <p />
